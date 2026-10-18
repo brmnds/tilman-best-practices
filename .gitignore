@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+node_modules/
+__pycache__/
+output/
+tmp/
